@@ -9,3 +9,7 @@ p {
     font-style: italic;
     color: darkslategray;
 }
+
+.highlight {
+    font-weight: bold;
+}
