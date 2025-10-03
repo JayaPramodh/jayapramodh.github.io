@@ -13,3 +13,8 @@ p {
 .highlight {
     font-weight: bold;
 }
+
+.branching {
+    font-style: oblique;
+    color: darkred;
+}
